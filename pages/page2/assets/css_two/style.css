@@ -1,0 +1,9 @@
+.asym-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.asym-item {
+    background-color: rgb(71, 50, 71)
